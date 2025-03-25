@@ -1,5 +1,5 @@
 ### BD-noSQL-Atividade2
-![Banner do Projeto](./)
+![Banner do Projeto](./mongodb.png)
 
 Um projeto feito com banco de dados noSql (MongoDB).
 
