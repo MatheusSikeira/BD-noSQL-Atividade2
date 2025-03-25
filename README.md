@@ -10,8 +10,8 @@ Um banco de dados MongoDB com um json com dados de alunos, que contém updateOne
 ## Operações no banco de dados
 
 - Operação 1: 
-![Foto do Formulário](./cap1.png)
+![Foto do Formulário](./cap1.PNG)
 - Operação 2:
-![Foto do Formulário](./cap2.png)
+![Foto do Formulário](./cap2.PNG)
 - Operação 3:
-![Foto do Formulário](./cap3.png)
+![Foto do Formulário](./cap3.PNG)
